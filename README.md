@@ -28,7 +28,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 4. Follow the daily challenges in order
 5. Share your progress using `#100DaysOfDevOps`
 
-> **Want to start the official challenge?** Use this [KodeKloud link](https://engineer.kodekloud.com/certificate-verification/bf06c8b4-3f43-41ce-837a-2eeb4910492e) - it helps support this project!
+> **Want to start the official challenge?** Use this [KodeKloud link](https://engineer.kodekloud.com/_next/image?url=https%3A%2F%2Fcertificates.engineer.kodekloud.com%2F%2F691c91434aa4b86f475f990d%2F67f8c6419cda08d63b5ff8a0%2Fbf06c8b4-3f43-41ce-837a-2eeb4910492e.jpg&w=2048&q=75) - it helps support this project!
 
 ## Challenge Progress
 
