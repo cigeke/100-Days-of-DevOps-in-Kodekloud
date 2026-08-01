@@ -42,7 +42,7 @@ We pledge to make participation in our DevOps learning community a harassment-fr
 
 ### 📧 Reporting
 
-- **Email**: [conduct@imshakil.33mail.com](mailto:conduct@imshakil.33mail.com)
+- **Email**: [nuhali088@gmail.com]
 - **Subject**: "Code of Conduct - kkDevOps Challenge"
 - All reports will be handled confidentially
 
