@@ -28,7 +28,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 4. Follow the daily challenges in order
 5. Share your progress using `#100DaysOfDevOps`
 
-> **Want to start the official challenge?** Use this [KodeKloud link](https://linkly.link/2CeSH) - it helps support this project!
+> **Want to start the official challenge?** Use this [KodeKloud link](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fengineer.kodekloud.com%2Fcertificate-verification%2Fbf06c8b4-3f43-41ce-837a-2eeb4910492e&urlhash=R_wu&mt=9NSJiJJ0bvt2xkdz6d1p4FQOLTlCnhN1dFx1sD3o4x9DcGx69D_5QEwgFS4kqOJkKLXV27f13CykOYlCmQhJnSD5xlg&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BlpVYeQAISe2eTbTKDm5K9g%3D%3D) - it helps support this project!
 
 ## Challenge Progress
 
