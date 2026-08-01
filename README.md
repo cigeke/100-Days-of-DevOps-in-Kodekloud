@@ -1,8 +1,8 @@
 # 🚀 100 Days of DevOps Challenge [KodeKloud]
 
-[![GitHub stars](https://img.shields.io/github/stars/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/issues)
+[![GitHub stars](https://img.shields.io/github/stars/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud)](https://github.com/imcigeke/100-Days-Of-DevOps-Challenge-KodeKloud/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Complete DevOps learning path with hands-on labs covering Linux, Docker, Kubernetes, Git, Ansible, and more!**
@@ -40,7 +40,6 @@ If you are already done this challenge, you can consider taking this next challe
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
-![certificate of completion](./screenshots/certificate-mh.jpg)
 
 ### Learning Modules
 
