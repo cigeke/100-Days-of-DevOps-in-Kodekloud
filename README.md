@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [@imcigke(https://github.com/cigeke)
+- **GitHub**: (https://github.com/cigeke)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nuh-ali-ibrahim-73001823a/)
 
 
